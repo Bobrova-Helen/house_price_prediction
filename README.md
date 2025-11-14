@@ -164,8 +164,3 @@ submission.to_csv("submission.csv", index=False)
 - scikit-learn - машинное обучение
 - matplotlib/seaborn - визуализация
 - joblib - сохранение моделей
-
-## Благодарности
-
-- Kaggle за предоставленный датасет
-- Сообщество за вдохновение и помощь
