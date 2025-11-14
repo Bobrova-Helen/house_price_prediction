@@ -165,14 +165,6 @@ submission.to_csv("submission.csv", index=False)
 - matplotlib/seaborn - визуализация
 - joblib - сохранение моделей
 
-## Лицензия
-
-MIT License (или укажите свою лицензию)
-
-## Автор
-
-Ваше имя (или username)
-
 ## Благодарности
 
 - Kaggle за предоставленный датасет
